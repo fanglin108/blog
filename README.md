@@ -13,9 +13,12 @@
 
 ## 左耳听风-洞悉技术的本质，享受科技的乐趣
 
+- [答疑解惑：我们应该能够识别的表象和本质](https://github.com/fanglin108/blog/blob/master/architect/chenhao/答疑解惑：我们应该能够识别的表象和本质.md)
 - [分布式系统架构的冰与火](https://github.com/fanglin108/blog/blob/master/architect/chenhao/分布式系统架构的冰与火.md)
 - [从亚马逊的实践，谈分布式系统的难点](https://github.com/fanglin108/blog/blob/master/architect/chenhao/从亚马逊的实践，谈分布式系统的难点.md)
 - [分布式系统的技术栈](https://github.com/fanglin108/blog/blob/master/architect/chenhao/分布式系统的技术栈.md)
 - [分布式系统关键技术：全栈监控](https://github.com/fanglin108/blog/blob/master/architect/chenhao/分布式系统关键技术：全栈监控.md)
 - [分布式系统关键技术：服务调度](https://github.com/fanglin108/blog/blob/master/architect/chenhao/分布式系统关键技术：服务调度.md)
 - [分布式系统关键技术：流量与数据调度](https://github.com/fanglin108/blog/blob/master/architect/chenhao/分布式系统关键技术：流量与数据调度.md)
+- [洞悉Pass平台的本质](https://github.com/fanglin108/blog/blob/master/architect/chenhao/洞悉Pass平台的本质.md)
+- 推荐阅读：分布式系统架构经典资料
